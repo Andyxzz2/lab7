@@ -1,0 +1,22 @@
+0:https://github.com/Andyxzz2/lab7.git
+1:
+Flask provides support for API while Django doesn’t have any support for API.
+Flask does not support dynamic HTML pages and Django offers dynamic HTML pages.
+Flask is a Python web framework built for rapid development whereas Django is built for easy and simple projects.
+Flask offers a diversified working style while Django offers a Monolithic working style.
+URL dispatcher of the Flask web framework is a RESTful request on the other hand, URL dispatcher of Django framework is based on controller-regex.
+Flask is WSGI framework while Django is a Full Stack Web Framework.
+
+2:REST stands for representational state transfer and was created by computer scientist Roy Fielding. RESTful refers to the web service implementing
+REST
+3:create, read, update and delete; create, get, update, delete
+4:
+1xx informational response – the request was received, continuing process
+2xx successful – the request was successfully received, understood, and accepted
+3xx redirection – further action needs to be taken in order to complete the request
+4xx client error – the request contains bad syntax or cannot be fulfilled
+5xx server error – the server failed to fulfil an apparently valid request
+
+5:a type of injection, in which malicious scripts are injected into otherwise benign and trusted websites
+  when a website uses unsanitized user input in the output that it generates
+6:Cross-Origin Resource Sharing. When a web server requires a cross-domain requests.
